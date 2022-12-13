@@ -1,0 +1,29 @@
+void data() {
+       if (hurufA) hurufnyaL = "A";
+  else if (hurufB) hurufnyaL = "B";
+  else if (hurufC) hurufnyaL = "C";
+  else if (hurufD) hurufnyaL = "D";
+  else if (hurufE) hurufnyaL = "E";
+  else if (hurufF) hurufnyaL = "F";
+  else if (hurufG) hurufnyaL = "G";
+  else if (hurufH) hurufnyaL = "H";
+  else if (hurufI) hurufnyaL = "I";
+  else if (hurufJ) hurufnyaL = "J";
+  else if (hurufK) hurufnyaL = "K";
+  else if (hurufL) hurufnyaL = "L";
+  else if (hurufM) hurufnyaL = "M";
+  else if (hurufN) hurufnyaL = "N";
+  else if (hurufO) hurufnyaL = "O";
+  else if (hurufP) hurufnyaL = "P";
+  else if (hurufQ) hurufnyaL = "Q";
+  else if (hurufR) hurufnyaL = "R";
+  else if (hurufS) hurufnyaL = "S";
+  else if (hurufT) hurufnyaL = "T";
+  else if (hurufU) hurufnyaL = "U";
+  else if (hurufV) hurufnyaL = "V";
+  else if (hurufW) hurufnyaL = "W";
+  else if (hurufX) hurufnyaL = "X";
+  else if (hurufY) hurufnyaL = "Y";
+  else if (hurufZ) hurufnyaL = "Z";
+  else             hurufnyaL = "-";
+}
